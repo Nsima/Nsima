@@ -1,0 +1,2 @@
+# Nsima
+ .github .aboutMe
