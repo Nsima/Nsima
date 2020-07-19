@@ -7,7 +7,7 @@ My name is George, my friends call me Nsima (NNN-SEE-MA) I am Full Stack Develop
 
  🔭 Anyway I'm currently working at Knowvees.
 
- 👯 I'm looking for funds to finishe a Hardware gaming project. Please contact me if you are interested.
+ 👯 I'm looking for funds to finish a Hardware gaming project. Please contact me if you are interested.
 
  ⚡ Fun fact: Majority of my life thinking about life and developing softwares and most of my programs are here at **GitHub**!
   
