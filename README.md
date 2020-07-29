@@ -1,6 +1,6 @@
 ### Who dares enter my domain?! 👋
 
-My name is George, my friends call me Nsima (NNN-SEE-MA) I am Full Stack Developer with over 8+ Years experience. Professional experience in Programming, Open Source, and other Technologies. I tinkered with programming in the earlier stages of my life I went to a University to study Law and I dropped out now I'm a full stack developer who has mastered a lot of programming areas. such as web developing, server-side programming, android development etc.
+My name is George, my friends call me Nsima (NNN-SEE-MA). I am Full Stack Developer with over 8+ Years experience. Professional experience in Programming, Open Source, and other Technologies. I tinkered with programming in the earlier stages of my life I went to a University to study Law and I dropped out now I'm a full stack developer who has mastered a lot of programming areas. such as web developing, server-side programming, android development etc.
 
 
 > I am looking for friends with as much experience and enthusiasm in Front-End technology to work on a shitty open source  project, please email me if you are interested.
