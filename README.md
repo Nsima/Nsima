@@ -5,7 +5,7 @@ My name is George, my friends call me Nsima (NNN-SEA-MA). I am Full Stack Develo
 
 > I am looking for friends with as much experience and enthusiasm in Front-End technology to work on a shitty open source  project, please email me if you are interested.
 
- 🔭 Anyway I'm currently working at Knowvees.
+ 🔭 Anyways, I'm currently working at Knowvees.
 
  👯 I'm looking for funds to finish a Hardware gaming project. Please contact me if you are interested.
 
