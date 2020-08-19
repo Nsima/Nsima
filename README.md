@@ -15,7 +15,7 @@ My name is George, my friends call me Nsima (NNN-SEA-MA). I am Software Develope
  
  💬 Ask me about anything related to programming by creating a new issue at [this repo](https://github.com/Nsima/Nsima/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D).
 
-**Welcome to my profile, You can follow me if my works interest you.**
+**Welcome to my profile, You can follow me even if my works don't interest you.**
 
 
 <!--
