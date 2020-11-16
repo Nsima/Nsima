@@ -1,6 +1,6 @@
 ### Abeg, Abeg, Abeg... 😒
 
-My name is George, my friends call me Nsima (NNN-SEA-MA). I am Software Developer. Professional experience in Programming, Open Source, and other Technologies. I tinkered with programming in the earlier stages of my life I went to a University to study Law and I dropped out now I'm a developer who has mastered a lot of programming areas, such as web developing, server-side programming, android development etc.
+My name is George, my friends call me Nsima (NNN-SEA-MA). I am Software Developer. I tinkered with programming in the earlier stages of my life I went to a University to study Law and I dropped out now I'm a developer who is constantly curious.
 
 
 > I am looking for friends with as much experience and enthusiasm in Front-End technology to work on a shitty  project, please email me if you are interested.
@@ -9,7 +9,7 @@ My name is George, my friends call me Nsima (NNN-SEA-MA). I am Software Develope
 
  👯 I'm looking for funds to finish a Hardware gaming project. Please contact me if you are interested.
 
- ⚡ Fun fact: Majority of my days revolves around thinking about life and developing softwares and most of my programs are here at **GitHub**!
+ ⚡ Fun fact: Majority of my days revolves around thinking about life and developing softwares and some of my projects are here at **GitHub**!
   
  📫 Sending Email for cooperation purposes: georgensima [@] gmail [.DOT.] com
  
