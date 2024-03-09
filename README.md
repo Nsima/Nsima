@@ -1,6 +1,6 @@
 ### Abeg, Abeg, Abeg... 😒
 
-My name is George, my friends call me Nsima (NNN-SEA-MA). I am Software Developer. I tinkered with programming in the earlier stages of my life I went to a University to study Law and I dropped out now I'm a developer who is constantly curious.
+My name is George, my friends call me Nsima (NNN-SEA-MA). I am Software Developer. I tinkered with programming in the earlier stages of my life I went to a University to study Law now I'm a developer who is constantly curious.
 
 
 > I am looking for friends with as much experience and enthusiasm in Front-End technology to work on a shitty  project, please email me if you are interested.
