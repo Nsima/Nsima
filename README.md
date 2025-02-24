@@ -1,36 +1,15 @@
-### Abeg, Abeg, Abeg... 😒
+### **Abeg, Abeg, Abeg... 😒**  
 
-My name is George, my friends call me Nsima (NNN-SEA-MA). I am Software Developer. I tinkered with programming in the earlier stages of my life I went to a University to study Law now I'm a developer who is constantly curious.
+My name is **George**, but my friends call me **Nsima (NNN-SEA-MA)**. I'm a **Blockchain & Privacy-focused Software Developer**. I started tinkering with programming early in life, then went to university to study **Law**, but somehow ended up building **decentralized systems** and advocating for **privacy in crypto**.  
 
+> I'm always looking for like-minded people who are passionate about **privacy tech, DeFi, and decentralization**. If you're down to build something experimental and disruptive, let’s connect!  
 
-> I am looking for friends with as much experience and enthusiasm in Front-End technology to work on a shitty  project, please email me if you are interested.
+🔭 **Currently working on:** Privacy-enhanced blockchain projects, including Romanium.  
+👯 **Looking for:** Collaborators interested in **Zero-Knowledge Proofs (ZKPs)**, privacy-preserving tech, and **Web3 dApps**.  
+⚡ **Fun fact:** I spend most of my time thinking about **financial privacy**, breaking **centralized systems**, and building things to make surveillance obsolete.  
 
- 🔭 Anyways, I'm currently working at Knowvees.
+📫 **For collaborations, reach out via email:** georgensima [@] gmail [.DOT.] com  
 
- 👯 I'm looking for funds to finish a Hardware gaming project. Please contact me if you are interested.
+💬 **Ask me about anything related to blockchain, cryptography, or decentralized systems** by creating a new issue at [this repo](https://github.com/Nsima/Nsima/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D).  
 
- ⚡ Fun fact: Majority of my days revolves around thinking about life and developing softwares and some of my projects are here at **GitHub**!
-  
- 📫 Sending Email for cooperation purposes: georgensima [@] gmail [.DOT.] com
- 
- 💬 Ask me about anything related to programming by creating a new issue at [this repo](https://github.com/Nsima/Nsima/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D).
-
-**Welcome to my profile, You can follow me even if my works don't interest you.**
-
-
-<!--
-You found a secret! Nsima/Nsima is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.
-
-New Nsima/Nsima is now a special repository: its README.md will appear on your profile! Send feedback. 
-
-**Nsima/Nsimax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Welcome to my profile. Follow me if you believe in a future where privacy matters.** 🚀🔐  
