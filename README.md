@@ -4,7 +4,7 @@ My name is **George**, but my friends call me **Nsima (NNN-SEA-MA)**. I'm a **Bl
 
 > I'm always looking for like-minded people who are passionate about **privacy tech, DeFi, and decentralization**. If you're down to build something experimental and disruptive, let’s connect!  
 
-🔭 **Currently working on:** Privacy-enhanced blockchain projects, including Romanium.  
+🔭 **Currently working on:** Privacy-enhanced blockchain projects, including Romenium.  
 👯 **Looking for:** Collaborators interested in **Zero-Knowledge Proofs (ZKPs)**, privacy-preserving tech, and **Web3 dApps**.  
 ⚡ **Fun fact:** I spend most of my time thinking about **financial privacy**, breaking **centralized systems**, and building things to make surveillance obsolete.  
 
