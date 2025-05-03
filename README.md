@@ -1,15 +1,27 @@
-### **Abeg, Abeg, Abeg... 😒**  
+### **Abeg, Abeg, Abeg... 😒**
 
-My name is **George**, but my friends call me **Nsima (NNN-SEA-MA)**. I'm a **Blockchain & Privacy-focused Software Developer**. I started tinkering with programming early in life, then went to university to study **Law**, but somehow ended up building **decentralized systems** and advocating for **privacy in crypto**.  
+My name is **George**, but everyone calls me **Nsima (NNN-SEA-MA)**. I’m a **Privacy-First Software Developer** who stumbled from a **Law degree** into a life of **breaking centralized systems**, building on-chain tools, and now — teaching machines to *be opinionated*.
 
-> I'm always looking for like-minded people who are passionate about **privacy tech, DeFi, and decentralization**. If you're down to build something experimental and disruptive, let’s connect!  
+> These days, I’m not just writing code for humans — I’m training AI to reflect human opinions.  
+> Whether it’s **stealth transactions** or **neural networks**, I’m all about building systems that *respect privacy, think critically, and challenge surveillance norms*.
 
-🔭 **Currently working on:** Privacy-enhanced blockchain projects, including Romenium.  
-👯 **Looking for:** Collaborators interested in **Zero-Knowledge Proofs (ZKPs)**, privacy-preserving tech, and **Web3 dApps**.  
-⚡ **Fun fact:** I spend most of my time thinking about **financial privacy**, breaking **centralized systems**, and building things to make surveillance obsolete.  
+🔭 **Currently working on:**  
+- Romenium: A privacy-enhanced blockchain token  
+- *What Would My Pastor Say?* — an AI/ML project trained on real sermons.  
+- Simulating trustless systems using encrypted APIs and stealth wallets
 
-📫 **For collaborations, reach out via email:** georgensima [@] gmail [.DOT.] com  
+👯 **Looking for:**  
+- Builders obsessed with **ZKPs**, **AI with moral frameworks**, or **decentralized cognition**  
+- Collaborators ready to blend **crypto**, **machine learning**, and **spiritual intelligence**
 
-💬 **Ask me about anything related to blockchain, cryptography, or decentralized systems** by creating a new issue at [this repo](https://github.com/Nsima/Nsima/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D).  
+💡 **New obsession:**  
+Teaching AI to give, human-centered opinion — without selling your data to the highest bidder.
 
-**Welcome to my profile. Follow me if you believe in a future where privacy matters.** 🚀🔐  
+⚡ **Fun fact:**  
+If I’m not coding, I’m probably simulating an email spoof, decrypting something I encrypted myself, or feeding a neural net sermons and asking it what love is.
+
+📫 **Let’s collaborate:** georgensima [@] gmail [.dot.] com
+
+💬 **Want to pick my brain or build something weird together?** Drop a question [here](https://github.com/Nsima/Nsima/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D).
+
+**Follow if you believe in a future where privacy, purpose, and AI can coexist.** 🤖🔐🧠
