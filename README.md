@@ -18,7 +18,7 @@ My name is **George**, but everyone calls me **Nsima (NNN-SEA-MA)**. I’m a **P
 Teaching AI to give, human-centered opinion — without selling your data to the highest bidder.
 
 ⚡ **Fun fact:**  
-If I’m not coding, I’m probably simulating an email spoof, decrypting something I encrypted myself, or feeding a neural net sermons and asking it what love is.
+If I’m not coding, I’m probably thinking about the meaning of life, decrypting something I encrypted myself, or feeding a neural net and asking it what love means.
 
 📫 **Let’s collaborate:** georgensima [@] gmail [.dot.] com
 
