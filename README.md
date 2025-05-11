@@ -12,7 +12,7 @@ My name is **George**, but everyone calls me **Nsima (NNN-SEA-MA)**. I’m a **P
 
 👯 **Looking for:**  
 - Builders obsessed with **ZKPs**, **AI with moral frameworks**, or **decentralized cognition**  
-- Collaborators ready to blend **crypto**, **machine learning**, and **spiritual intelligence**
+- Collaborators ready to blend **crypto**, **machine learning**, and **security**
 
 💡 **New obsession:**  
 Teaching AI to give, human-centered opinion — without selling your data to the highest bidder.
