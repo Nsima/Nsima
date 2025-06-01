@@ -1,6 +1,6 @@
 ### **Abeg, Abeg, Abeg... 😒**
 
-My name is **George**, but everyone calls me **Nsima (NNN-SEA-MA)**. I’m a **Privacy-First Software Developer** who stumbled from a **Law degree** into a life of **breaking centralized systems**, building on-chain tools, and now — teaching machines to *be opinionated*.
+My name is **George**, but close friends call me **Nsima (NNN-SEA-MA)**. I’m a **Privacy-First Software Developer** who stumbled from a **Law degree** into a life of **breaking centralized systems**, building on-chain tools, and now — teaching machines to *be opinionated*.
 
 > These days, I’m not just writing code for humans — I’m training AI to reflect human opinions.  
 > Whether it’s **stealth transactions** or **neural networks**, I’m all about building systems that *respect privacy, think critically, and challenge surveillance norms*.
