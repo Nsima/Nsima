@@ -8,7 +8,7 @@ My name is **George**, but everyone calls me **Nsima (NNN-SEA-MA)**. I’m a **P
 🔭 **Currently working on:**  
 - Romenium: A privacy-enhanced blockchain token  
 - *What Would My Pastor Say?* — an AI/ML project trained on real sermons.  
-- Simulating trustless systems using encrypted APIs and stealth wallets
+- A Prediction AI to control my browser and do things I would "most likely" do but more *efficiently*.
 
 👯 **Looking for:**  
 - Builders obsessed with **ZKPs**, **AI with moral frameworks**, or **decentralized cognition**  
