@@ -6,6 +6,7 @@ My name is **George**, but close friends call me **Nsima (NNN-SEA-MA)**. I’m a
 > Whether it’s **stealth transactions** or **neural networks**, I’m all about building systems that *respect privacy, think critically, and challenge surveillance norms*.
 
 🔭 **Currently working on:**  
+- A next-gen P2P/Trading Platform that could most likely rival Binance/Bybit
 - Romenium: A privacy-enhanced blockchain token  
 - *What Would My Pastor Say?* — an AI/ML project trained on real sermons.  
 - A Prediction AI to control my browser and do things I would "most likely" do but more *efficiently*.
